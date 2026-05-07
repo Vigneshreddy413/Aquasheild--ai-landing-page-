@@ -18,4 +18,4 @@ Premium futuristic landing page for an AI-powered environmental monitoring platf
 - JavaScript
 
 ## Live Demo
-https://vigneshreddy413.github.io/Aquashield-ai-landing-page-/
+https://vigneshreddy413.github.io/Aquasheild--ai-landing-page-/
